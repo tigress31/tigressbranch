@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/js">
+        <file alias="calculation.js">calculation.js</file>
+        <file>colorChanger.js</file>
+    </qresource>
+</RCC>
